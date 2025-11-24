@@ -1,13 +1,17 @@
 import { useState } from "react";
 import { Link } from "react-router-dom";
+import "./Navbar.css";
 
 export default function Navbar() {
   const [open, setOpen] = useState(false);
 
   return (
-    <nav className="bg-yellow-700 text-white px-6 py-4 flex items-center justify-between">
+    <nav className="bg-sky-700 text-white px-6 py-4 flex items-center justify-between">
       {/* App name clickable */}
-      <Link to="/" className="text-2xl font-bold hover:text-blue-100">
+      <Link
+        to="/"
+        className="text-2xl font-bold hover:text-blue-100 monoton-font"
+      >
         Soccer Stats ⚽
       </Link>
 
