@@ -1,5 +1,29 @@
-@import url('https://fonts.googleapis.com/css2?family=Monoton&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Monoton&family=Tinos:ital,wght@0,400;0,700;1,400;1,700&display=swap');
 
 .monoton-font {
   font-family: 'Monoton', cursive;
+}
+
+.tinos-regular {
+  font-family: "Tinos", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.tinos-bold {
+  font-family: "Tinos", serif;
+  font-weight: 700;
+  font-style: normal;
+}
+
+.tinos-regular-italic {
+  font-family: "Tinos", serif;
+  font-weight: 400;
+  font-style: italic;
+}
+
+.tinos-bold-italic {
+  font-family: "Tinos", serif;
+  font-weight: 700;
+  font-style: italic;
 }

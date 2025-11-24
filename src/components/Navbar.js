@@ -6,13 +6,10 @@ export default function Navbar() {
   const [open, setOpen] = useState(false);
 
   return (
-    <nav className="bg-sky-700 text-white px-6 py-4 flex items-center justify-between">
+    <nav className="bg-slate-950 text-white px-20 py-12 flex items-center justify-between">
       {/* App name clickable */}
-      <Link
-        to="/"
-        className="text-2xl font-bold hover:text-blue-100 monoton-font"
-      >
-        Soccer Stats ⚽
+      <Link to="/" className="text-6xl hover:text-indigo-400 monoton-font">
+        Futboliro.com
       </Link>
 
       {/* Hamburger button for mobile */}
@@ -29,15 +26,6 @@ export default function Navbar() {
           open ? "block" : "hidden"
         }`}
       >
-        <li className="p-3 md:p-0">
-          <Link
-            to="/"
-            className="hover:text-blue-400"
-            onClick={() => setOpen(false)}
-          >
-            Home
-          </Link>
-        </li>
         {/* You can add more links here */}
       </ul>
     </nav>

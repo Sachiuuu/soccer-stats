@@ -43,13 +43,17 @@ export default function Home() {
 
   return (
     <div className="p-6 text-center text-white">
-      <h1 className="text-4xl font-bold text-blue-400 mb-6">Soccer Stats ⚽</h1>
+      <h1 className="text-2xl tinos-font text-white-400 mb-6">
+        Welcome to Futboliro! This app is designed for all those futbol fans
+        around the world who appreciate the history of their favorites clubs.
+        Feel free to search the respective league to find your team
+      </h1>
 
       {/* League selector */}
       <div className="mb-6">
         <label className="mr-3 text-lg">Select League:</label>
         <select
-          className="bg-gray-800 text-white p-2 rounded"
+          className="bg-slate-950 text-white p-2 rounded"
           onChange={(e) => handleLeagueSelect(e.target.value)}
           value={selectedLeague}
         >
@@ -69,7 +73,7 @@ export default function Home() {
             <div
               key={team.id}
               onClick={() => handleTeamClick(team.id)}
-              className="cursor-pointer bg-gray-800 p-4 rounded-lg hover:bg-blue-500 transition"
+              className="cursor-pointer bg-slate-950 p-4 rounded-lg hover:bg-indigo-400 transition"
             >
               <img
                 src={team.crest}
