@@ -1,0 +1,12 @@
+* [33m25762c7[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m a random commit
+* [33m1bfd41f[m Lineups for 23/24 premier league season is done. Fixed up layout format on club page (NEEDS MORE DETAIL). Need to finish reamaining seasons, and try to add an ia to show players pictures instead of the kit number if possible
+* [33m3640eda[m Creater a feature to add teams and their players into a json file, currently working on season 23/24 premier league. Team Remaining: Newcastle United, Nottingham Forest, Sunderland, Tottenham Hotspur, West Ham United, Wolverhampton Wanderers
+* [33m71180ec[m Deleted python enviroment due to problems to fetch all data for the lineups. To replace this, now there will be and extra page that will allow us to save player by player manually.
+* [33mb5512c4[m testing
+* [33m319211a[m testing
+* [33mbec5944[m Using transfermrkt urls for every team to fetch the minutes played of every player. MUST check each url to confirm if the team selected is the correct, usually not cuz has different id on url or different name.
+* [33mcb19bef[m Change web color theme, installed python enviroment since app will usea py script to fetch all lineups for every team, Created data-collector foler which will contain all files and code required
+* [33mefdcea4[m add a navbar.css file which stores a new font for the page name
+* [33ma6472a8[m fixture personalization, finish some details and need to add more features into the web
+* [33m1636908[m web soccer first steps
+* [33m5f70823[m Initialize project using Create React App
