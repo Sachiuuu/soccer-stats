@@ -2,6 +2,7 @@ import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import Home from "./pages/Home";
 import ClubPage from "./pages/ClubPage";
 import Navbar from "./components/Navbar";
+import SquadDataEntry from "./pages/SquadDataEntry";
 
 function App() {
   return (
