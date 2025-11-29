@@ -46,7 +46,7 @@ export default function Home() {
       <h1 className="text-2xl tinos-font text-white-400 mb-6">
         Welcome to Futboliro! This app is designed for all those futbol fans
         around the world who appreciate the history of their favorites clubs.
-        Feel free to search the respective league to find your team
+        Feel free to search the respective league to find your team.
       </h1>
 
       {/* League selector */}
