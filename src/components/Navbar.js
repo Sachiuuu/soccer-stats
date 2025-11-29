@@ -12,14 +12,6 @@ export default function Navbar() {
         Futboliro.com
       </Link>
 
-      {/* Hamburger button for mobile */}
-      <button
-        className="md:hidden text-white text-2xl"
-        onClick={() => setOpen(!open)}
-      >
-        ☰
-      </button>
-
       {/* Menu items */}
       <ul
         className={`md:flex md:items-center md:gap-6 absolute md:static top-16 left-0 w-full md:w-auto bg-gray-900 md:bg-transparent transition-all duration-300 ${
@@ -27,6 +19,15 @@ export default function Navbar() {
         }`}
       >
         {/* You can add more links here */}
+        <li>
+          <Link
+            to="/squad-data"
+            className="block px-4 py-2 hover:text-indigo-400"
+            onClick={() => setOpen(false)}
+          >
+            Squad Data Entry
+          </Link>
+        </li>
       </ul>
     </nav>
   );

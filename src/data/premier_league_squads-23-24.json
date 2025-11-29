@@ -1304,6 +1304,564 @@
               "minutesPlayed": 3088
             }
           ]
+        },
+        {
+          "teamName": "Newcastle United",
+          "players": [
+            {
+              "fullName": "Martin Dúbravka",
+              "position": [
+                "GK"
+              ],
+              "kitNumber": 1,
+              "minutesPlayed": 2644
+            },
+            {
+              "fullName": "Fabian Schär",
+              "position": [
+                "CB"
+              ],
+              "kitNumber": 5,
+              "minutesPlayed": 3987
+            },
+            {
+              "fullName": "Dan Burn",
+              "position": [
+                "LB"
+              ],
+              "kitNumber": 33,
+              "minutesPlayed": 3432
+            },
+            {
+              "fullName": "Kieran Trippier",
+              "position": [
+                "RB"
+              ],
+              "kitNumber": 2,
+              "minutesPlayed": 3079
+            },
+            {
+              "fullName": "Jamaal Lascelles",
+              "position": [
+                "CB"
+              ],
+              "kitNumber": 6,
+              "minutesPlayed": 1922
+            },
+            {
+              "fullName": "Bruno Guimarães",
+              "position": [
+                "CM"
+              ],
+              "kitNumber": 39,
+              "minutesPlayed": 4360
+            },
+            {
+              "fullName": "Sean Longstaff",
+              "position": [
+                "CM"
+              ],
+              "kitNumber": 36,
+              "minutesPlayed": 3643
+            },
+            {
+              "fullName": "Joelinton",
+              "position": [
+                "CM"
+              ],
+              "kitNumber": 7,
+              "minutesPlayed": 1844
+            },
+            {
+              "fullName": "Anthony Gordon",
+              "position": [
+                "LW"
+              ],
+              "kitNumber": 10,
+              "minutesPlayed": 3869
+            },
+            {
+              "fullName": "Miguel Almirón",
+              "position": [
+                "RW"
+              ],
+              "kitNumber": 24,
+              "minutesPlayed": 2739
+            },
+            {
+              "fullName": "Alexander Isak",
+              "position": [
+                "CF"
+              ],
+              "kitNumber": 14,
+              "minutesPlayed": 2973
+            }
+          ]
+        },
+        {
+          "teamName": "Nottingham Forest",
+          "players": [
+            {
+              "fullName": "Matt Turner",
+              "position": [
+                "GK"
+              ],
+              "kitNumber": 1,
+              "minutesPlayed": 1920
+            },
+            {
+              "fullName": "Murillo",
+              "position": [
+                "CB"
+              ],
+              "kitNumber": 40,
+              "minutesPlayed": 3165
+            },
+            {
+              "fullName": "Moussa Niakhaté",
+              "position": [
+                "CB"
+              ],
+              "kitNumber": 19,
+              "minutesPlayed": 1667
+            },
+            {
+              "fullName": "Neco Williams",
+              "position": [
+                "LB"
+              ],
+              "kitNumber": 7,
+              "minutesPlayed": 1996
+            },
+            {
+              "fullName": "Ola Aina",
+              "position": [
+                "RB"
+              ],
+              "kitNumber": 43,
+              "minutesPlayed": 1700
+            },
+            {
+              "fullName": "Morgan Gibbs-White",
+              "position": [
+                "CAM"
+              ],
+              "kitNumber": 10,
+              "minutesPlayed": 3526
+            },
+            {
+              "fullName": "Danilo",
+              "position": [
+                "CM"
+              ],
+              "kitNumber": 28,
+              "minutesPlayed": 2307
+            },
+            {
+              "fullName": "Ryan Yates",
+              "position": [
+                "CM"
+              ],
+              "kitNumber": 22,
+              "minutesPlayed": 2412
+            },
+            {
+              "fullName": "Anthony Elanga",
+              "position": [
+                "RW"
+              ],
+              "kitNumber": 21,
+              "minutesPlayed": 2678
+            },
+            {
+              "fullName": "Chris Wood",
+              "position": [
+                "CF"
+              ],
+              "kitNumber": 11,
+              "minutesPlayed": 2195
+            },
+            {
+              "fullName": "Callum Hudson-Odoi",
+              "position": [
+                "LW"
+              ],
+              "kitNumber": 14,
+              "minutesPlayed": 2190
+            }
+          ]
+        },
+        {
+          "teamName": "Sunderland AFC",
+          "players": [
+            {
+              "fullName": "Anthony Patterson",
+              "position": [
+                "GK"
+              ],
+              "kitNumber": 1,
+              "minutesPlayed": 4140
+            },
+            {
+              "fullName": "Trai Hume",
+              "position": [
+                "RB"
+              ],
+              "kitNumber": 32,
+              "minutesPlayed": 4159
+            },
+            {
+              "fullName": "Dan Ballard",
+              "position": [
+                "CB"
+              ],
+              "kitNumber": 5,
+              "minutesPlayed": 3927
+            },
+            {
+              "fullName": "Luke O'Nien",
+              "position": [
+                "CB"
+              ],
+              "kitNumber": 13,
+              "minutesPlayed": 3960
+            },
+            {
+              "fullName": "Leo Hjelde",
+              "position": [
+                "LB"
+              ],
+              "kitNumber": 33,
+              "minutesPlayed": 861
+            },
+            {
+              "fullName": "Jobe Bellingham",
+              "position": [
+                "CM"
+              ],
+              "kitNumber": 7,
+              "minutesPlayed": 3755
+            },
+            {
+              "fullName": "Dan Neil",
+              "position": [
+                "CM"
+              ],
+              "kitNumber": 24,
+              "minutesPlayed": 3833
+            },
+            {
+              "fullName": "Pierre Ekwah",
+              "position": [
+                "CDM"
+              ],
+              "kitNumber": 39,
+              "minutesPlayed": 3161
+            },
+            {
+              "fullName": "Jack Clarke",
+              "position": [
+                "LW"
+              ],
+              "kitNumber": 20,
+              "minutesPlayed": 3623
+            },
+            {
+              "fullName": "Patrick Roberts",
+              "position": [
+                "RW"
+              ],
+              "kitNumber": 10,
+              "minutesPlayed": 1851
+            },
+            {
+              "fullName": "Mason Burstow",
+              "position": [
+                "CF"
+              ],
+              "kitNumber": 11,
+              "minutesPlayed": 896
+            }
+          ]
+        },
+        {
+          "teamName": "Tottenham Hotspur",
+          "players": [
+            {
+              "fullName": "Guglielmo Vicario",
+              "position": [
+                "GK"
+              ],
+              "kitNumber": 13,
+              "minutesPlayed": 3600
+            },
+            {
+              "fullName": "Cristian Romero",
+              "position": [
+                "CB"
+              ],
+              "kitNumber": 17,
+              "minutesPlayed": 2882
+            },
+            {
+              "fullName": "Micky van de Ven",
+              "position": [
+                "CB"
+              ],
+              "kitNumber": 37,
+              "minutesPlayed": 2523
+            },
+            {
+              "fullName": "Pedro Porro",
+              "position": [
+                "RB"
+              ],
+              "kitNumber": 23,
+              "minutesPlayed": 3273
+            },
+            {
+              "fullName": "Destiny Udogie",
+              "position": [
+                "LB"
+              ],
+              "kitNumber": 38,
+              "minutesPlayed": 2578
+            },
+            {
+              "fullName": "Dejan Kulusevski",
+              "position": [
+                "CM"
+              ],
+              "kitNumber": 21,
+              "minutesPlayed": 2964
+            },
+            {
+              "fullName": "James Maddison",
+              "position": [
+                "CAM"
+              ],
+              "kitNumber": 10,
+              "minutesPlayed": 2179
+            },
+            {
+              "fullName": "Pape Matar Sarr",
+              "position": [
+                "CM"
+              ],
+              "kitNumber": 29,
+              "minutesPlayed": 2103
+            },
+            {
+              "fullName": "Brennan Johnson",
+              "position": [
+                "RW"
+              ],
+              "kitNumber": 22,
+              "minutesPlayed": 2248
+            },
+            {
+              "fullName": "Richarlison",
+              "position": [
+                "CF"
+              ],
+              "kitNumber": 9,
+              "minutesPlayed": 1737
+            },
+            {
+              "fullName": "Heung-min Son",
+              "position": [
+                "LW"
+              ],
+              "kitNumber": 7,
+              "minutesPlayed": 2967
+            }
+          ]
+        },
+        {
+          "teamName": "West Ham United",
+          "players": [
+            {
+              "fullName": "Alphonse Areola",
+              "position": [
+                "GK"
+              ],
+              "kitNumber": 23,
+              "minutesPlayed": 2880
+            },
+            {
+              "fullName": "Kurt Zouma",
+              "position": [
+                "CB"
+              ],
+              "kitNumber": 4,
+              "minutesPlayed": 3379
+            },
+            {
+              "fullName": "Konstantinos Mavropanos",
+              "position": [
+                "CB"
+              ],
+              "kitNumber": 15,
+              "minutesPlayed": 2706
+            },
+            {
+              "fullName": "Emerson",
+              "position": [
+                "LB"
+              ],
+              "kitNumber": 33,
+              "minutesPlayed": 3916
+            },
+            {
+              "fullName": "Vladimír Coufal",
+              "position": [
+                "RB"
+              ],
+              "kitNumber": 5,
+              "minutesPlayed": 4063
+            },
+            {
+              "fullName": "Lucas Paquetá",
+              "position": [
+                "CAM"
+              ],
+              "kitNumber": 10,
+              "minutesPlayed": 3478
+            },
+            {
+              "fullName": "Edson Álvarez",
+              "position": [
+                "CM"
+              ],
+              "kitNumber": 19,
+              "minutesPlayed": 3155
+            },
+            {
+              "fullName": "James Ward-Prowse",
+              "position": [
+                "CM"
+              ],
+              "kitNumber": 7,
+              "minutesPlayed": 4022
+            },
+            {
+              "fullName": "Jarrod Bowen",
+              "position": [
+                "RW"
+              ],
+              "kitNumber": 20,
+              "minutesPlayed": 3842
+            },
+            {
+              "fullName": "Michail Antonio",
+              "position": [
+                "CF"
+              ],
+              "kitNumber": 9,
+              "minutesPlayed": 2032
+            },
+            {
+              "fullName": "Saïd Benrahma",
+              "position": [
+                "LF"
+              ],
+              "kitNumber": 22,
+              "minutesPlayed": 1203
+            }
+          ]
+        },
+        {
+          "teamName": "Wolverhampton Wanderers",
+          "players": [
+            {
+              "fullName": "José Sá",
+              "position": [
+                "GK"
+              ],
+              "kitNumber": 1,
+              "minutesPlayed": 3518
+            },
+            {
+              "fullName": "Rayan Aït-Nouri",
+              "position": [
+                "LB"
+              ],
+              "kitNumber": 3,
+              "minutesPlayed": 2669
+            },
+            {
+              "fullName": "Toti",
+              "position": [
+                "CB"
+              ],
+              "kitNumber": 24,
+              "minutesPlayed": 3405
+            },
+            {
+              "fullName": "Maximilian Kilman",
+              "position": [
+                "CB"
+              ],
+              "kitNumber": 23,
+              "minutesPlayed": 3981
+            },
+            {
+              "fullName": "Nélson Semedo",
+              "position": [
+                "RB"
+              ],
+              "kitNumber": 22,
+              "minutesPlayed": 3484
+            },
+            {
+              "fullName": "Mario Lemina",
+              "position": [
+                "CDM"
+              ],
+              "kitNumber": 5,
+              "minutesPlayed": 3261
+            },
+            {
+              "fullName": "João Gomes",
+              "position": [
+                "CM"
+              ],
+              "kitNumber": 8,
+              "minutesPlayed": 2865
+            },
+            {
+              "fullName": "Tommy Doyle",
+              "position": [
+                "CM"
+              ],
+              "kitNumber": 20,
+              "minutesPlayed": 1750
+            },
+            {
+              "fullName": "Matheus Cunha",
+              "position": [
+                "CF"
+              ],
+              "kitNumber": 12,
+              "minutesPlayed": 2772
+            },
+            {
+              "fullName": "Hee-chan Hwang",
+              "position": [
+                "LW"
+              ],
+              "kitNumber": 11,
+              "minutesPlayed": 2249
+            },
+            {
+              "fullName": "Pablo Sarabia",
+              "position": [
+                "RW"
+              ],
+              "kitNumber": 21,
+              "minutesPlayed": 2168
+            }
+          ]
         }
       ]
     }
